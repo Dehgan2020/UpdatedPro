@@ -14,6 +14,8 @@ public class LogInPage {
 	public static void main(String[] args) throws InterruptedException {
 
 		// @Before
+		
+		//new
 
 		// public void launchBrowser() {
 		// Setting up the property and launching the browser
